@@ -7,8 +7,8 @@ AI engineer and neuroscience enthusiast.
 
 - Worked in the [Machine Intelligence Lab](http://mil-team.com) as AI Researcher 👩‍💻 during my undegrad in Applied Math and Physics.
 
-- Worked as research assistant at [Adaptive Motor Control Lab](http://www.mackenziemathislab.org) headed by [Mackenzie Mathis](http://www.mackenziemathislab.org/mackenziemathis) 🐁 🧠 during my Master's in Data Science at Ecole polytechnique fédérale de Lausanne 🇨🇭.
+- Worked as research assistant at [Adaptive Motor Control Lab](http://www.mackenziemathislab.org) headed by [Mackenzie Mathis](http://www.mackenziemathislab.org/mackenziemathis) 🐁 🧠 during my Master's in Data Science at Ecole polytechnique fédérale de Lausanne 🇨🇭. Also spent sometime at WorldQuant as an intern.
 
-Currently I am spending time at Apple California 🍏, working on efficent training and inference of LLMs on Apple Silicon.
+Currently I am interning at Apple California 🍏, working on efficent training and inference of LLMs on Apple Silicon.
 
 [profile](https://anasfil.io)
