@@ -10,6 +10,6 @@ I did my undegrad in Applied Math and Physics at MIPT in Moscow and Master's in 
 During my Master's I was a part of [Adaptive Motor Control Lab](http://www.mackenziemathislab.org) headed by amazing [Mackenzie Mathis](http://www.mackenziemathislab.org/mackenziemathis) doing research in the intersection of AI and Neuroscience [mostly working on self-supervised learning and pose estimation]. 
 Also spent sometime at WorldQuant as an intern.
 
-During undergrad I worked for 2 years at of [Machine Intelligence Lab](http://mil-team.com) as AI Researcher.
+During undergrad I worked for 2 years at [Machine Intelligence Lab](http://mil-team.com) as AI Researcher.
 
 [profile](https://anasfil.io)
